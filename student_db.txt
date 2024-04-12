@@ -1,3 +1,0 @@
-DDU1402313;Kaleb;M;CS;4.0
-DDU1402464;Bethelhem;F;SE;3.5
-DDU1401111;Bethelhem;F;CS;3.7
